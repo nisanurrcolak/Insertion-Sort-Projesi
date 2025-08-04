@@ -1,0 +1,8 @@
+// 
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+küçükten büyüğe
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9] //4 ya da 5 root seçilir örnek olarak 4 u sectim
+root:4
+sağındaki sayılar:  [5, 6, 7, 8, 9] 5 sayı
+solundaki sayılar:  [0, 1, 2, 3] 4 sayı
